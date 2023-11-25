@@ -10,7 +10,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PageForm ",
+  title: "CustomForms ",
   description: "One Step Solution for Custom Forms",
 };
 
